@@ -114,7 +114,7 @@ switch (ENVIRONMENT)
  *
  * NO TRAILING SLASH!
  */
-	$application_folder = './lendoo-web/public';
+	$application_folder = '../application';
 
 /*
  *---------------------------------------------------------------
